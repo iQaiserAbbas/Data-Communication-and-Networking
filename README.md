@@ -7,6 +7,7 @@ In this repository I am sharing all my labs which I am studying as part of Data 
 
 ```bash
 Use Cisco Packet Tracer to implement these labs.
+It is recommended to use version 7.3.1 to run all cisco files (.pkt).
 ```
 
 
